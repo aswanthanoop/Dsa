@@ -1,3 +1,4 @@
+import java.util.*;
 public class pascalTriangle2 {
     class Solution {
         public List<Integer> getRow(int rowIndex) {

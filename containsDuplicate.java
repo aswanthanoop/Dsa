@@ -1,3 +1,4 @@
+import java.util.*;
 public class containsDuplicate {
     class Solution {
         public boolean containsDuplicate(int[] nums) {
