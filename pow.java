@@ -22,5 +22,5 @@ public class pow {
             return result;
 
         }
-    }
+    }    
 }
