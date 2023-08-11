@@ -1,3 +1,4 @@
+import java.util.*;
 public class wordBreak {
     class Solution {
         private Map<String, Boolean> dp;
